@@ -8,7 +8,7 @@
     },
     "require": {
         "php": "^7.2|^7.3|^7.4|^8.0|^8.,1",
-        "jaymoulin/cloudflare-bypass": "dev-php8.1",
+        "jaymoulin/cloudflare-bypass": "*",
         "guzzlehttp/guzzle": "^7.0",
         "ext-curl": "*",
         "ext-bcmath": "*"
